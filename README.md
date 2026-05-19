@@ -1,5 +1,5 @@
 # Python - Physics - Destructive Sound Interference
-This project was created as a part of a Physics presentation in which we use the different python scripts to exemplify how a destructive sound interference works.\
+This project was created as a part of a Physics presentation in which we use the different Python scripts to exemplify how a destructive sound interference works.\
 Using two separate speakers, one to each side and pointing to each other, we can have in the middle of them a section where the sound wave is destructive, causing the phenomenon.
 The microphone, then, is used to show visually the wave getting destroyed.
 
